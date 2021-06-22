@@ -1,0 +1,16 @@
+.jumbotron{
+    padding-top: 5rem;
+    background: #212529;
+    color: white;
+}
+.jumbotron img {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+#galery{
+    background: #212529 ;
+}
+section {
+    padding-top: 5rem;
+}
